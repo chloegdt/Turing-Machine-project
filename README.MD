@@ -3,6 +3,8 @@
 ## Installation
 
 1. Install Python
+2. git clone https://github.com/chloegdt/Turing-Machine-project.git
+
 *Python version used: 3.10.8*
 
 ## Content
