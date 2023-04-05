@@ -1,0 +1,12 @@
+name: copyXY
+init: qinit
+accept: qaccept
+
+qinit,0,_,_
+qinit,#,0,_,>,>,-
+
+qinit,1,_,_
+qinit,#,1,_,>,>,-
+
+qinit,_,_,_
+qaccept,_,_,_,<,<,-

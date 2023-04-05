@@ -1,0 +1,12 @@
+name: Xsearch#
+init: qinit
+accept: qaccept
+
+qinit,0,_,_
+qinit,0,_,_,>,-,-
+
+qinit,1,_,_
+qinit,1,_,_,>,-,-
+
+qinit,#,_,_
+qaccept,#,_,_,>,-,-

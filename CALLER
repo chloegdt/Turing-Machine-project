@@ -1,0 +1,6 @@
+name: caller
+init: qinit
+accept: qaccept
+
+qinit, 0, _, COPY, qaccept
+qinit, 1, _, COPY, qaccept

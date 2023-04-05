@@ -1,0 +1,15 @@
+name: copy
+init: qinit
+accept: qaccept
+
+qinit, 0, _
+qinit, 0, 0, >, >
+
+qinit, 1, _
+qinit, 1, 1, >, >
+
+qinit, _, _
+qaccept, _, _, -, -
+
+qinit,0,0
+qinit,1,1,-,-
